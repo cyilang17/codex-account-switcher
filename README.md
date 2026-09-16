@@ -5,7 +5,7 @@
 > Manage multiple Codex accounts, sign-in status, and usage limits from a lightweight desktop pet. Switch accounts without manually replacing `auth.json`.
 
 <p align="center">
-  <img width="220" alt="image" src="https://github.com/user-attachments/assets/90a30929-71c6-462c-ad52-1c0a8c88c529" />
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/a04c84d3-2abb-4c5b-b4a4-0bf3ce039d1d" />
   &nbsp;&nbsp;
   <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5b18842a-cb15-4aa9-8366-844bd1ca1046" />
 
