@@ -5,9 +5,9 @@
 > Manage multiple Codex accounts, sign-in status, and usage limits from a lightweight desktop pet. Switch accounts without manually replacing `auth.json`.
 
 <p align="center">
-  <img src="release-assets/screenshots/codex-pet-account-panel.png" alt="Codex Pet account panel showing multiple accounts and usage limits" width="220">
+  <img width="220" alt="image" src="https://github.com/user-attachments/assets/90a30929-71c6-462c-ad52-1c0a8c88c529" />
   &nbsp;&nbsp;
-  <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/f501670f-3ded-444e-9de0-c2d65ce20ca2" />
+  <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/5b18842a-cb15-4aa9-8366-844bd1ca1046" />
 
 
 </p>
