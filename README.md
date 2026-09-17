@@ -3,12 +3,19 @@
 > 把多个 Codex 账号、登录状态和额度放进一只轻量的桌面宠物里。无需手动替换 `auth.json`，一键切换后即可继续使用 Codex。
 >
 > Manage multiple Codex accounts, sign-in status, and usage limits from a lightweight desktop pet. Switch accounts without manually replacing `auth.json`.
+# Support the Project / 支持作者​
+> 如果这个小工具帮到了你，欢迎扫码打赏支持，让这只桌面宠物继续成长 🐾
+> 
+> If this tool makes your life easier, feel free to support its development.
+
+> Alipay / 支付宝​
+
 
 <p align="center">
   <img src="https://github.com/cyilang17/codex-switch-desktop/raw/main/release-assets/screenshots/codex-pet-account-panel.png" alt="Codex Pet account panel showing multiple accounts and usage limits" width="220">
   &nbsp;&nbsp;
   <img height="220" alt="image" src="https://github.com/user-attachments/assets/ecdd614c-09ad-4b41-9c0a-fd4e9cd57195" width="220"/>
-
+  <img alt="image" src="https://github.com/cyilang17/codex-account-switcher/blob/main/AliPay.JPG?raw=true" width="220"/>
 </p>
 
 <p align="center">
